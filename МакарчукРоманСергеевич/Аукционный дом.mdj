@@ -55,23 +55,6 @@
 									"subViews": [
 										{
 											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5g94qkJZAA=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5gX56j9p1Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5g9z6kGNUU="
-											},
-											"visible": false,
-											"fillColor": "#fab26a",
-											"font": "Arial;13;0",
-											"left": 1229,
-											"top": -44,
-											"width": 254.685546875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
 											"_id": "AAAAAAGSDh18qmbgAg0=",
 											"_parent": {
 												"$ref": "AAAAAAGL/5gX56j9p1Q="
@@ -82,7 +65,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 110,
+											"top": 108,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -98,7 +81,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 125,
+											"top": 123,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -114,7 +97,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 140,
+											"top": 138,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -130,7 +113,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 155,
+											"top": 153,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -146,7 +129,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 170,
+											"top": 168,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -162,24 +145,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 185,
-											"width": 254.685546875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjzqaWkPIQY=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5gX56j9p1Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjzqWWkMUdk="
-											},
-											"visible": false,
-											"fillColor": "#fab26a",
-											"font": "Arial;13;0",
-											"left": 629,
-											"top": 200,
+											"top": 183,
 											"width": 254.685546875,
 											"height": 13
 										},
@@ -195,7 +161,7 @@
 											"fillColor": "#fab26a",
 											"font": "Arial;13;0",
 											"left": 629,
-											"top": 200,
+											"top": 198,
 											"width": 254.685546875,
 											"height": 13
 										}
@@ -205,7 +171,7 @@
 									"left": 624,
 									"top": 103,
 									"width": 264.685546875,
-									"height": 115
+									"height": 113
 								}
 							],
 							"fillColor": "#fab26a",
@@ -289,23 +255,6 @@
 										},
 										{
 											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5nQ36lL/8E=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hPb6kQ55Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5nQ0KlIJyw="
-											},
-											"visible": false,
-											"fillColor": "#ff6969",
-											"font": "Arial;13;0",
-											"left": 829,
-											"top": 417,
-											"width": 312.77294921875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
 											"_id": "AAAAAAGL/5nNValFno0=",
 											"_parent": {
 												"$ref": "AAAAAAGL/5hPb6kQ55Q="
@@ -351,74 +300,6 @@
 											"top": 360,
 											"width": 312.77294921875,
 											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjoMDWjmGKY=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hPb6kQ55Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjoL+GjjL1U="
-											},
-											"visible": false,
-											"fillColor": "#ff6969",
-											"font": "Arial;13;0",
-											"left": 597,
-											"top": 375,
-											"width": 312.77294921875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjoQg2js6KE=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hPb6kQ55Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjoQcGjp8sQ="
-											},
-											"visible": false,
-											"fillColor": "#ff6969",
-											"font": "Arial;13;0",
-											"left": 597,
-											"top": 390,
-											"width": 312.77294921875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjoTOmjyl+Y=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hPb6kQ55Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjoTKGjvYF4="
-											},
-											"visible": false,
-											"fillColor": "#ff6969",
-											"font": "Arial;13;0",
-											"left": 597,
-											"top": 390,
-											"width": 312.77294921875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjoWI2j4wpE=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hPb6kQ55Q="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjoWCWj1Eac="
-											},
-											"visible": false,
-											"fillColor": "#ff6969",
-											"font": "Arial;13;0",
-											"left": 597,
-											"top": 390,
-											"width": 312.77294921875,
-											"height": 13
 										}
 									],
 									"fillColor": "#ff6969",
@@ -434,7 +315,7 @@
 							"left": 592,
 							"top": 272,
 							"width": 322.77294921875,
-							"height": 128,
+							"height": 106,
 							"nameLabel": {
 								"$ref": "AAAAAAGL/5hPb6kP58Y="
 							},
@@ -494,40 +375,6 @@
 										},
 										{
 											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5qGValkZ08=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hYbKkctDA="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5qGTalhsNQ="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1117,
-											"top": 1099,
-											"width": 251.23876953125,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5qJEqlqRs8=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hYbKkctDA="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5qJAqlnEkU="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1093,
-											"top": 1114,
-											"width": 251.23876953125,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
 											"_id": "AAAAAAGL/6ZbkqpfnXQ=",
 											"_parent": {
 												"$ref": "AAAAAAGL/5hYbKkctDA="
@@ -572,7 +419,7 @@
 							"left": 904,
 							"top": 736,
 							"width": 261.23876953125,
-							"height": 96,
+							"height": 76,
 							"nameLabel": {
 								"$ref": "AAAAAAGL/5hYbKkbnFo="
 							},
@@ -632,57 +479,6 @@
 										},
 										{
 											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5rQQKl5Zdg=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hiPqkoYGU="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5rQOal21vI="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1333,
-											"top": 491,
-											"width": 231.21826171875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/5rn2Kl/UiI=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hiPqkoYGU="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/5rnyKl8hnI="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 909,
-											"top": 611,
-											"width": 231.21826171875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGL/6TGQ6pAS20=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hiPqkoYGU="
-											},
-											"model": {
-												"$ref": "AAAAAAGL/6TGNKo9OeM="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1277,
-											"top": 658,
-											"width": 231.21826171875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
 											"_id": "AAAAAAGSDh5oNWbnbUM=",
 											"_parent": {
 												"$ref": "AAAAAAGL/5hiPqkoYGU="
@@ -710,40 +506,6 @@
 											"font": "Arial;13;0",
 											"left": 1013,
 											"top": 474,
-											"width": 231.21826171875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDiHtAGc+nOg=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hiPqkoYGU="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDiHs52c7Gts="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1109,
-											"top": 449,
-											"width": 231.21826171875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDjyftGkHIQ8=",
-											"_parent": {
-												"$ref": "AAAAAAGL/5hiPqkoYGU="
-											},
-											"model": {
-												"$ref": "AAAAAAGSDjyfoWkE7mg="
-											},
-											"visible": false,
-											"fillColor": "#8fff8f",
-											"font": "Arial;13;0",
-											"left": 1109,
-											"top": 449,
 											"width": 231.21826171875,
 											"height": 13
 										},
@@ -797,18 +559,17 @@
 										},
 										{
 											"_type": "ERDColumnView",
-											"_id": "AAAAAAGSDkMwiWmX7Ic=",
+											"_id": "AAAAAAGSMVWNagl2bI0=",
 											"_parent": {
 												"$ref": "AAAAAAGL/5hiPqkoYGU="
 											},
 											"model": {
-												"$ref": "AAAAAAGSDkMwdWmUeDY="
+												"$ref": "AAAAAAGSMVWNRwlzrvc="
 											},
-											"visible": false,
 											"fillColor": "#8fff8f",
 											"font": "Arial;13;0",
 											"left": 1013,
-											"top": 549,
+											"top": 534,
 											"width": 231.21826171875,
 											"height": 13
 										},
@@ -824,7 +585,7 @@
 											"fillColor": "#8fff8f",
 											"font": "Arial;13;0",
 											"left": 1013,
-											"top": 534,
+											"top": 549,
 											"width": 231.21826171875,
 											"height": 13
 										}
@@ -834,7 +595,7 @@
 									"left": 1008,
 									"top": 439,
 									"width": 241.21826171875,
-									"height": 113
+									"height": 128
 								}
 							],
 							"fillColor": "#8fff8f",
@@ -1863,16 +1624,6 @@
 					"columns": [
 						{
 							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5g9z6kGNUU=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5gX5qj5qTU="
-							},
-							"name": "Серия и номер паспорта",
-							"type": "INTEGER",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
 							"_id": "AAAAAAGSDh18hWbdxts=",
 							"_parent": {
 								"$ref": "AAAAAAGL/5gX5qj5qTU="
@@ -1934,20 +1685,12 @@
 						},
 						{
 							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjzqWWkMUdk=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5gX5qj5qTU="
-							},
-							"name": "Избранный лот",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
 							"_id": "AAAAAAGSMUeNMQkswqM=",
 							"_parent": {
 								"$ref": "AAAAAAGL/5gX5qj5qTU="
 							},
 							"name": "Избранный лот",
+							"type": "INTEGER",
 							"length": 0,
 							"foreignKey": true
 						}
@@ -2096,17 +1839,6 @@
 						},
 						{
 							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5nQ0KlIJyw=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hPbqkMZHY="
-							},
-							"name": "Номер лота",
-							"type": "INTEGER",
-							"length": 0,
-							"foreignKey": true
-						},
-						{
-							"_type": "ERDColumn",
 							"_id": "AAAAAAGL/5nNTqlCO9c=",
 							"_parent": {
 								"$ref": "AAAAAAGL/5hPbqkMZHY="
@@ -2136,39 +1868,6 @@
 							"type": "INTEGER",
 							"length": 0,
 							"foreignKey": true
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjoL+GjjL1U=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hPbqkMZHY="
-							},
-							"name": "Категория",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjoQcGjp8sQ=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hPbqkMZHY="
-							},
-							"name": "Column2"
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjoTKGjvYF4=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hPbqkMZHY="
-							},
-							"name": "Column3"
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjoWCWj1Eac=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hPbqkMZHY="
-							},
-							"name": "Column4"
 						}
 					]
 				},
@@ -2190,25 +1889,6 @@
 							"type": "INTEGER",
 							"length": 0,
 							"primaryKey": true
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5qGTalhsNQ=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hYbKkYp14="
-							},
-							"name": "Стоимость",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5qJAqlnEkU=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hYbKkYp14="
-							},
-							"name": "Номер лота",
-							"length": 0,
-							"foreignKey": true
 						},
 						{
 							"_type": "ERDColumn",
@@ -2340,36 +2020,6 @@
 						},
 						{
 							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5rQOal21vI=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hiPakk/94="
-							},
-							"name": "Общая стоимость",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/5rnyKl8hnI=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hiPakk/94="
-							},
-							"name": "Стартовая цена",
-							"type": "NUMERIC",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGL/6TGNKo9OeM=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hiPakk/94="
-							},
-							"name": "Номер товара",
-							"type": "INTEGER",
-							"length": 0,
-							"foreignKey": true
-						},
-						{
-							"_type": "ERDColumn",
 							"_id": "AAAAAAGSDh5oHWbk6To=",
 							"_parent": {
 								"$ref": "AAAAAAGL/5hiPakk/94="
@@ -2387,24 +2037,6 @@
 							"name": "Начальная цена",
 							"type": "NUMERIC",
 							"length": "7"
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDiHs52c7Gts=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hiPakk/94="
-							},
-							"name": "Текущая ставка",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDjyfoWkE7mg=",
-							"_parent": {
-								"$ref": "AAAAAAGL/5hiPakk/94="
-							},
-							"name": "Статус лота",
-							"length": 0
 						},
 						{
 							"_type": "ERDColumn",
@@ -2438,11 +2070,12 @@
 						},
 						{
 							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDkMwdWmUeDY=",
+							"_id": "AAAAAAGSMVWNRwlzrvc=",
 							"_parent": {
 								"$ref": "AAAAAAGL/5hiPakk/94="
 							},
-							"name": "Категория",
+							"name": "Статус лота",
+							"type": "VARCHAR",
 							"length": 0
 						},
 						{
@@ -2698,43 +2331,6 @@
 							"name": "Выручка продавца",
 							"type": "NUMERIC",
 							"length": "7"
-						}
-					]
-				},
-				{
-					"_type": "ERDEntity",
-					"_id": "AAAAAAGSDj+VUmlCvQw=",
-					"_parent": {
-						"$ref": "AAAAAAGL/5gH/6j0ooI="
-					},
-					"name": "Аукцион",
-					"columns": [
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDkANo2lPrbs=",
-							"_parent": {
-								"$ref": "AAAAAAGSDj+VUmlCvQw="
-							},
-							"name": "Номер аукциона",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDkBJRWlWs38=",
-							"_parent": {
-								"$ref": "AAAAAAGSDj+VUmlCvQw="
-							},
-							"name": "Текущая ставка",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGSDkCEm2ldYCc=",
-							"_parent": {
-								"$ref": "AAAAAAGSDj+VUmlCvQw="
-							},
-							"name": "Номер лота",
-							"length": 0
 						}
 					]
 				}
