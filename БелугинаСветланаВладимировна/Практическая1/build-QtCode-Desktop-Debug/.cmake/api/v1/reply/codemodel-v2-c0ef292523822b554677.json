@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4eacec9f956080cfc99a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtCode",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtCode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtCode-Debug-6ecbb3b8f9740a35f86d.json",
+					"name" : "QtCode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtCode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtCode_autogen-Debug-1c52fa0c5e89e991cab7.json",
+					"name" : "QtCode_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/student-1/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0413\u0430\u0432\u0432\u0430\u041c\u0430\u043a\u0441\u0438\u043c/ISs-235/\u0411\u0435\u043b\u0443\u0433\u0438\u043d\u0430\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430/\u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f1/build-QtCode-Desktop-Debug",
+		"source" : "/home/student-1/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0413\u0430\u0432\u0432\u0430\u041c\u0430\u043a\u0441\u0438\u043c/ISs-235/\u0411\u0435\u043b\u0443\u0433\u0438\u043d\u0430\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430/\u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f1/QtCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

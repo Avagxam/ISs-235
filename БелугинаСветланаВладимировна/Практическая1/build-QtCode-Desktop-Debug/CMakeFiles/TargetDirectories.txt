@@ -1,0 +1,8 @@
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/QtCode.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/install.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/install/local.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/student-1/Документы/ГавваМаксим/ISs-235/БелугинаСветланаВладимировна/Практическая1/build-QtCode-Desktop-Debug/CMakeFiles/QtCode_autogen.dir
