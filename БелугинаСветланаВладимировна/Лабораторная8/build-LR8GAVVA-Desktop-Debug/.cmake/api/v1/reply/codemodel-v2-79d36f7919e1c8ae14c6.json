@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2ff176c5bbe70a4d595e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LR8GAVVA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LR8GAVVA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LR8GAVVA-Debug-6f5a2a4eef99fe0eedb6.json",
+					"name" : "LR8GAVVA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/student-1/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0413\u0430\u0432\u0432\u0430\u041c\u0430\u043a\u0441\u0438\u043c/ISs-235/\u0411\u0435\u043b\u0443\u0433\u0438\u043d\u0430\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f8/build-LR8GAVVA-Desktop-Debug",
+		"source" : "/home/student-1/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0413\u0430\u0432\u0432\u0430\u041c\u0430\u043a\u0441\u0438\u043c/ISs-235/\u0411\u0435\u043b\u0443\u0433\u0438\u043d\u0430\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f8/LR8GAVVA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
